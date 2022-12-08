@@ -16,4 +16,10 @@ Data collection from plants is the future of farming.
 
 Data based decisions at the farm level can improve resource utilisation and conservation practices. We can collect from plants all the data we want using sensors.
 
+# Specific tasks
+1. create HomeScreen
+2. create infoScreen
+3. create addPlantScreen to add plant
+4. create infoCard and use flatlist to display in HomeScreen
+5. fetch data and display in infoScreen
 
